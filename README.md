@@ -1,3 +1,1 @@
-<<<<<<< HEAD
-asdjl;kasdfhadjshfjkashdfjjaksdh
->>>>>>> origin/master
+final version
