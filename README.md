@@ -1,3 +1,3 @@
-asdjl;kasdfhadjshfjkashdfjjaksdhfjklhajklsdhfjlkasdf ay with g
-# change title
-# Add titlec:
+<<<<<<< HEAD
+asdjl;kasdfhadjshfjkashdfjjaksdh
+>>>>>>> origin/master
